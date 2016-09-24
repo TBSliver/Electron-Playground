@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Basic Playground",
   "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TBSliver/Electron-Playground.git"
+  }
   "scripts": {
     "start": "electron main.js"
   },
